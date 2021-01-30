@@ -1,0 +1,8 @@
+2021-01-29T09:15:45+00:00 CRITICAL syntax error, unexpected '$selected' (T_VARIABLE), expecting '(' in C:\xampp\htdocs\bassdoll\wp-content\themes\testwordpress\index.php on line 344
+
+2021-01-29T09:16:01+00:00 CRITICAL syntax error, unexpected '$selected' (T_VARIABLE), expecting '(' in C:\xampp\htdocs\bassdoll\wp-content\themes\testwordpress\index.php on line 341
+
+2021-01-29T09:16:04+00:00 CRITICAL syntax error, unexpected '$selected' (T_VARIABLE), expecting '(' in C:\xampp\htdocs\bassdoll\wp-content\themes\testwordpress\index.php on line 341
+
+2021-01-29T10:22:56+00:00 CRITICAL syntax error, unexpected '$' in C:\xampp\htdocs\bassdoll\wp-content\themes\testwordpress\index.php on line 362
+
